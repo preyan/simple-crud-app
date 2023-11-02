@@ -4,6 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Setup
 
+Install `Node.js`. You can download the latest version of Node.js from [here](https://nodejs.org/en/download/). npm is installed automatically with Node.js.
+
+Installing Node.js also installs `npm`, which is the Node.js package manager. `npm` is used to install Angular CLI, which is used to create projects, generate application and library code, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
+
 Run `npm install -g json-server` to install json-server globally.
 Run `npm install` to install all dependencies.
 
