@@ -2,9 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.1.
 
+## Setup
+
+Run `npm install -g json-server` to install json-server globally.
+Run `npm install` to install all dependencies.
+
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `json-server --watch db.json`. This will start the json-server on port 3000. The json-server is used to mock the backend.
+Run `ng serve --open` to start the application on port 4200 (`http://localhost:4200/`). The application will automatically open in your default browser. It will also automatically reload if you change any of the source files.
 
 ## Code scaffolding
 
