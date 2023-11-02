@@ -8,6 +8,7 @@ Install `Node.js`. You can download the latest version of Node.js from [here](ht
 
 Installing Node.js also installs `npm`, which is the Node.js package manager. `npm` is used to install Angular CLI, which is used to create projects, generate application and library code, and perform a variety of ongoing development tasks such as testing, bundling, and deployment.
 
+Run `Set-ExecutionPolicy unrestricted`
 Run `npm install -g json-server` to install json-server globally.
 Run `npm install` to install all dependencies.
 
